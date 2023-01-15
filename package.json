@@ -1,0 +1,22 @@
+{
+  "name": "teste-momento2-edital-programacao-1",
+  "version": "1.0.0",
+  "description": "O caso hipotético da Área de Atuação IV - Programação consiste na execução de três desafios que avaliam algumas habilidades e competências necessárias para um programador da ESP/CE, destacando-se resolução de problemas, lógica de programação e boas práticas de codificação.",
+  "main": "exercicio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersondantas81/teste-momento2-edital-programacao-1.git"
+  },
+  "author": "Anderson Dantas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andersondantas81/teste-momento2-edital-programacao-1/issues"
+  },
+  "homepage": "https://github.com/andersondantas81/teste-momento2-edital-programacao-1#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
