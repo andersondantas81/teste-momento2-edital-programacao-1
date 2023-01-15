@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=RED&style=for-the-badge" #vitrinedev/>
+   <img src="https://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=RED&style=for-the-badge" />
 </p>
 
 ### Tópicos 
@@ -12,13 +12,13 @@
 
 - [Desafios](#desafios)
 
-- [Aplicação](#aplicação)
-
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
 - [Acesso ao projeto](#acesso-ao-projeto)
 
 - [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+
+- [Aplicação](#aplicação)
 
 - [Desenvolvedor](#desenvolvedor)
 
@@ -40,15 +40,6 @@ O caso hipotético da Área de Atuação I - Programação consiste na execuçã
 
 :heavy_check_mark: `Desafio 3:` Escreva um programa que lê 2 matrizes A e B, cada uma com 3 linhas e 2 colunas. Construir uma matriz C de mesma dimensão (3x2) onde C é formada pela soma dos elementos da matriz A com os elementos da matriz B (exemplo: C[1][1] = A[1][1] + B[1][1]). Apresentar ao final as 3 matrizes (A, B e C).
 
-## Aplicação
-
-<div align="center">
-
-
-</div>
-
-###
-
 ## Ferramentas utilizadas
 
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -68,6 +59,16 @@ Após baixar o projeto, você pode abrir com o `Visual Studio Code` e clicar em:
 - Por fim clique em `OK`.
 
 No `Visual Studio Code` no menu Terminal clique em `New Terminal`, no terminal execute o comando `npm install`, aguarde até finalizar. Ao finalizar você pode executar os desafio com os comandos:  `node exercicio1.js`, `node exercicio2.js`, `node exercicio3.js` 🏆 
+
+## Aplicação
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/andersondantas81/teste-momento2-edital-programacao-1/main/.github/images/executar-desafios.gif)
+
+</div>
+
+###
 
 ## Desenvolvedor
 
