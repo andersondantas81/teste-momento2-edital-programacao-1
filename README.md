@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center">
-   <img src="https://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=RED&style=for-the-badge" />
+   <img src="https://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=RED&style=for-the-badge"/>
 </p>
 
 ### Tópicos 
